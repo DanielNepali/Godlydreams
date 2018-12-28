@@ -633,12 +633,12 @@ blockquote.wp-block-quote.is-style-large cite {
 }
 
 .nv-top-bar {
-	color: #404248;
-	background-color: #f0f0f0;
+	color: #2222d6;
+	background-color: #2222d6;
 }
 
 .nv-top-bar a {
-	color: #404248;
+	color: #2222d6;
 	font-weight: 500;
 }
 
@@ -770,7 +770,7 @@ blockquote.wp-block-quote.is-style-large cite {
 .nv-navbar {
 	max-height: 100vh;
 	border-bottom: 1px solid #f0f0f0;
-	background-color: #fff;
+	background-color: #2222d6;
 }
 
 #nv-primary-navigation {
